@@ -14,7 +14,7 @@ the above R sript can be copied into the editor and executed directly. the scrip
         9.Full text includes 1)background/introduction para 2)results para 3)Discussion para 4)conclusions para
 
 4) we create a data frame df with the above mentioned 9 attributes and write into file using write.table into .txt file 
-  this can be found inside folder "text file"
+  this can be found inside folder "txt file"
 
 5) Downloads all the articles from the crawled links using getdocs function and saves it as "article's DOI".html 
   this can be found inside htmldocs
