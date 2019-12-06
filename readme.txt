@@ -19,5 +19,5 @@ the above R sript can be copied into the editor and executed directly. the scrip
 5) Downloads all the articles from the crawled links using getdocs function and saves it as "article's DOI".html 
   this can be found inside htmldocs
 
-There are over 6336 articles spanning from years 2000 to 2019  in ou journal. so i have documented my project
-by taking the year 2015 as input adn the  umber of artiels from 2105 -2019 which has around 1140 articles .
+There are over 6336 articles spanning from years 2000 to 2019  in our selected journal. so i have documented my project
+by taking the year 2015 as input and the  number of articles from 2105 -2019 which has around 1140 articles .
